@@ -1,17 +1,10 @@
-# DevFolio : My Personal Portfolio
+# Noorulhaq Rahimi : My Personal Portfolio
 
 > This is My [Personal Portfolio](https://portfolio.dhawal.in.net)
 
 ---
 
-<h2 align="left">&#x1f4c8; Repo Stats:</h2>
 
-- ![GitHub stars](https://img.shields.io/github/stars/dhawal-793/dhawal-793.github.io)
-- ![GitHub forks](https://img.shields.io/github/forks/dhawal-793/dhawal-793.github.io)
-- [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/dhawal-793/dhawal-793.github.io/commits/main)
-- [![Website shields.io](https://img.shields.io/badge/website-up-green)](http://dhawal-793.github.io/)
-
----
 
 <h2 align="left"> 🖥️ Tech Stack</h2>
 <p>
@@ -43,13 +36,13 @@
 <h2 align="left">🔗 Connect with me:</h2>
 
 <p align=center>
-    <a href="mailto:vijaydhawal9000@gmail.com" target="blank">
+    <a href="mailto:noorulhaqrahimi11@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://linkedin.com/in/dhawal793" target="blank">
+    <a href="https://www.linkedin.com/in/noorulhaq-rahimi-843799397/" target="blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://t.me/DV_793" target="_blank">
+    <a href="[https://t.me/DV_793](https://t.me/Noorulhaq_Rahimi)" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 
