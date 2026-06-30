@@ -1,8 +1,8 @@
 import Ecommerce from "../assets/Projects/Ecommerce.png"
 import portfolio from "../assets/Projects/portfolio.png"
 import Hero from "../assets/Projects/Hero.png"
-import Dev_Notes from "../assets/Projects/Dev_Notes.png"
-import Dev_Folio from "../assets/Projects/Dev_Folio.png"
+import hero2 from "../assets/Projects/hero2.png"
+import firstp from "../assets/Projects/firstp.png"
 import Spam_Detector from "../assets/Projects/Spam_Detector.png"
 import FAC from "../assets/Projects/FAC.png"
 import Simon_Game from "../assets/Projects/Simon_Game.png"
@@ -51,10 +51,10 @@ const projects = [
         }
     },
     {
-        img: Dev_Notes,
-        name: "Dev Notes",
-        demo: "https://dev-notes-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Dev_Notes",
+        img: hero2,
+        name: "Hero Page2",
+        demo: "https://heropage2.netlify.app/",
+        code: "https://github.com/noorulhaqrahimi/Hero-Page-nr.git",
         description: "DevNotes is a Simple Notes App Created using MERN Stack with complete user Authentication.",
         style: {
             shadow: "shadow-[#F8FAFC]",
@@ -63,8 +63,8 @@ const projects = [
         }
     },
     {
-        img: Dev_Folio,
-        name: "DevFolio",
+        img: firstp,
+        name: "first portfolio website",
         demo: "https://dev-folio-793.vercel.app",
         code: "https://github.com/dhawal-793/DevFolio",
         description: "Devfolio: Dhawal's Personal portfolio built with React Js, Tailwind CSS and Vite Js",
