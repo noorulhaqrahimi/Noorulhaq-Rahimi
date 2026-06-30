@@ -49,7 +49,7 @@ const projects = [
         name: "Hero Page2",
         demo: "https://heropage2.netlify.app/",
         code: "https://github.com/noorulhaqrahimi/Hero-Page-nr.git",
-        description: "Heropage full design project make with HTML CSS.",
+        description: "Hero page full design project make with HTML CSS.",
         style: {
             shadow: "shadow-[#F8FAFC]",
             cover: "from-[#F8FAFC]",
@@ -61,7 +61,7 @@ const projects = [
         name: "first portfolio website",
         demo: "https://dev-folio-793.vercel.app",
         code: "https://github.com/dhawal-793/DevFolio",
-        description: "",
+        description: "my first portfolio for first time make with HTML CSS.",
         style: {
             shadow: "shadow-[#23CEEE]",
             cover: "from-[#23CEEE]",
@@ -73,7 +73,7 @@ const projects = [
         name: "Spam Detector",
         demo: "https://loginfrom1.netlify.app/",
         code: "https://github.com/noorulhaqrahimi/Form-login-Design.git",
-        description: "Spam Detector is a Hack-A-Vishkar hackathon project organised in Geetanjali Collage of Technical Studies, on spam email detection system using custom ml models.",
+        description: "design my first login form make with HTML CSS.",
         style: {
             shadow: "shadow-[#277AF8]",
             cover: "from-[#277AF8]",
