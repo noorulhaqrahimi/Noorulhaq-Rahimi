@@ -71,8 +71,8 @@ const projects = [
     {
         img: login,
         name: "Spam Detector",
-        demo: "https://spam-detector-793.vercel.app",
-        code: "https://github.com/dhawal-793/spam-detection-next",
+        demo: "https://loginfrom1.netlify.app/",
+        code: "https://github.com/noorulhaqrahimi/Form-login-Design.git",
         description: "Spam Detector is a Hack-A-Vishkar hackathon project organised in Geetanjali Collage of Technical Studies, on spam email detection system using custom ml models.",
         style: {
             shadow: "shadow-[#277AF8]",
