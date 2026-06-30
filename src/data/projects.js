@@ -1,6 +1,6 @@
 import Ecommerce from "../assets/Projects/Ecommerce.png"
-import Dev_Store from "../assets/Projects/Dev_Store.png"
-import Dev_News from "../assets/Projects/Dev_News.png"
+import portfolio from "../assets/Projects/portfolio.png"
+import Hero from "../assets/Projects/Hero.png"
 import Dev_Notes from "../assets/Projects/Dev_Notes.png"
 import Dev_Folio from "../assets/Projects/Dev_Folio.png"
 import Spam_Detector from "../assets/Projects/Spam_Detector.png"
@@ -27,11 +27,11 @@ const projects = [
         }
     },
     {
-        img: Dev_Store,
+        img: portfolio,
         name: "Dev Store",
-        demo: "https://dev-store-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Dev_Store",
-        description: "DevStore is an All in One E-Commerce Shopping website built with NextJs,",
+        demo: "https://noorulhaqrahimi.netlify.app/",
+        code: "https://github.com/noorulhaqrahimi/Noorulhaq_Rahimi-old2.git",
+        description: "My Portfolio Website Just Make For Course Project Make With React js, Tailwind CSS.",
         style: {
             shadow: "shadow-[#5E4746]",
             cover: "from-[#5E4746]",
@@ -39,11 +39,11 @@ const projects = [
         }
     },
     {
-        img: Dev_News,
-        name: "Dev News",
-        demo: "https://dev-news-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Dev_News",
-        description: "Dev News is a news website, where you can find the latest news anytime, anywhere",
+        img: Hero,
+        name: "Hero Page",
+        demo: "https://hero-page1.netlify.app/",
+        code: "https://github.com/noorulhaqrahimi/Hero-page.git",
+        description: "Hero page design for test project that make with HTML CSS.",
         style: {
             shadow: "shadow-[#FB923C]",
             cover: "from-[#FB923C]",
