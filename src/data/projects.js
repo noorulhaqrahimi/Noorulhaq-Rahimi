@@ -4,12 +4,6 @@ import Hero from "../assets/Projects/Hero.png"
 import hero2 from "../assets/Projects/hero2.png"
 import firstp from "../assets/Projects/firstp.png"
 import login from "../assets/Projects/login.png"
-import FAC from "../assets/Projects/FAC.png"
-import Simon_Game from "../assets/Projects/Simon_Game.png"
-import Todo_App from "../assets/Projects/Todo_App.png"
-import ECF from "../assets/Projects/ECF.png"
-import CLI_TMA from "../assets/Projects/CLI_TMA.png"
-
 
 
 
