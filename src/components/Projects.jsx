@@ -4,6 +4,8 @@ import Project from "./Project";
 import personalProjects from "../data/projects";
 import GridLayout from "./GridLayout";
 import AnimatedWrapper from "./ui/AnimatedWrapper";
+
+
 const Projects = () => {
   return (
     <div
