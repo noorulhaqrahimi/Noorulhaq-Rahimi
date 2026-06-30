@@ -49,7 +49,7 @@ const projects = [
         name: "Hero Page2",
         demo: "https://heropage2.netlify.app/",
         code: "https://github.com/noorulhaqrahimi/Hero-Page-nr.git",
-        description: "DevNotes is a Simple Notes App Created using MERN Stack with complete user Authentication.",
+        description: "Heropage full design project make with HTML CSS.",
         style: {
             shadow: "shadow-[#F8FAFC]",
             cover: "from-[#F8FAFC]",
