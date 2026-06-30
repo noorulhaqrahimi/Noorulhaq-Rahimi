@@ -3,7 +3,7 @@ import portfolio from "../assets/Projects/portfolio.png"
 import Hero from "../assets/Projects/Hero.png"
 import hero2 from "../assets/Projects/hero2.png"
 import firstp from "../assets/Projects/firstp.png"
-import Spam_Detector from "../assets/Projects/Spam_Detector.png"
+import login from "../assets/Projects/login.png"
 import FAC from "../assets/Projects/FAC.png"
 import Simon_Game from "../assets/Projects/Simon_Game.png"
 import Todo_App from "../assets/Projects/Todo_App.png"
@@ -75,7 +75,7 @@ const projects = [
         }
     },
     {
-        img: Spam_Detector,
+        img: login,
         name: "Spam Detector",
         demo: "https://spam-detector-793.vercel.app",
         code: "https://github.com/dhawal-793/spam-detection-next",
