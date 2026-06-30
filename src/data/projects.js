@@ -61,7 +61,7 @@ const projects = [
         name: "first portfolio website",
         demo: "https://dev-folio-793.vercel.app",
         code: "https://github.com/dhawal-793/DevFolio",
-        description: "Devfolio: Dhawal's Personal portfolio built with React Js, Tailwind CSS and Vite Js",
+        description: "",
         style: {
             shadow: "shadow-[#23CEEE]",
             cover: "from-[#23CEEE]",
