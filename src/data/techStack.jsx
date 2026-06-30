@@ -1,20 +1,20 @@
-import  { Git, VSCode, Terraform, AWS, Jenkins, Linux, MERN, TailwindCSS, Docker } from "../components/SkilIcons"
+import  { Git,PHP,TS,JS, VSCode,GitHub,Bash,HTML,MySQL, Terraform, AWS, Jenkins, Linux, MERN, TailwindCSS, Docker } from "../components/SkilIcons"
 
 
 const TechStack = [
     {
-        icon: <Docker width={32} height={32} />,
-        name: "Docker",
+        icon: <MySQL width={32} height={32} />,
+        name: "MySQL",
         
     },
     {
-        icon: <AWS width={35} height={35} />,
-        name: "AWS",
+        icon: <PHP width={35} height={35} />,
+        name: "PHP",
         
     },
     {
-        icon: <Terraform width={32} height={32} />,
-        name: "Terraform",
+        icon: <GitHub width={32} height={32} />,
+        name: "GitHub",
 
     },
     {
@@ -23,9 +23,8 @@ const TechStack = [
 
     },
     {
-        icon: <Jenkins width={35} height={35} />,
-        name: "Jenkins",
-
+        icon: <TS width={35} height={35} />,
+        name: "TS",
     },
     {
         icon: <VSCode width={30} height={32} />,
@@ -36,12 +35,16 @@ const TechStack = [
         name: "Linux",
     },
     {
-        icon: <MERN width={35} height={35} />,
-        name: "MERN Stack",
+        icon: <Bash width={35} height={35} />,
+        name: "Bash Stack",
     },
     {
         icon: <TailwindCSS width={30} height={30} />,
         name: "Tailwind CSS",
+    },
+    {
+        icon: <JS width={30} height={30} />,
+        name: "JS",
     },
 ]
 
