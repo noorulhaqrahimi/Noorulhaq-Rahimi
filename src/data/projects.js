@@ -1,4 +1,4 @@
-import Ecommerce_Dashboard from "../assets/Projects/Ecommerce_Dashboard.png"
+import Ecommerce from "../assets/Projects/Ecommerce.png"
 import Dev_Store from "../assets/Projects/Dev_Store.png"
 import Dev_News from "../assets/Projects/Dev_News.png"
 import Dev_Notes from "../assets/Projects/Dev_Notes.png"
@@ -15,11 +15,11 @@ import CLI_TMA from "../assets/Projects/CLI_TMA.png"
 
 const projects = [
     {
-        img: Ecommerce_Dashboard,
-        name: "Ecommerce Dashboard",
-        demo: "https://ecommerce-dashboard-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Ecommerce_Dashboard",
-        description: "All in One Dashboard for managing Ecommerce Stores, built with NextJS, ReactJs and shadcn-ui with prisma, typescript, planetScale, and clerkauth.",
+        img: Ecommerce,
+        name: "Ecommerce Website",
+        demo: "",
+        code: "https://github.com/noorulhaqrahimi/shoppery.git",
+        description: "Ecobazar Ecommerce That Make By Me and one of The Best Full Access To All Tools and This Is My Project...",
         style: {
             shadow: "shadow-[#3498AB]",
             cover: "from-[#3498AB]",
