@@ -77,22 +77,33 @@ const formValidation = async (
     from_email: formData.email.trim(),
     message: formData.message.trim(),
   };
-  
+
+  // بررسی مقدار Environment Variables
+  console.log("SERVICE ID:", import.meta.env.VITE_EMAILJS_SERVICE_ID);
+  console.log("TEMPLATE ID:", import.meta.env.VITE_EMAILJS_TEMPLATE_ID);
+  console.log("PUBLIC KEY:", import.meta.env.VITE_EMAILJS_PUBLIC_KEY);
 
   try {
-    await emailjs.send(
+    const response = await emailjs.send(
       import.meta.env.VITE_EMAILJS_SERVICE_ID,
       import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
       templateParams,
       import.meta.env.VITE_EMAILJS_PUBLIC_KEY
     );
 
+    console.log("SUCCESS:", response);
+
     alert("Message sent successfully!");
 
     setFormData(initialFormData);
     setErrData(initialErrData);
+
   } catch (error) {
-    console.error("EmailJS Error:", error);
+    console.error("========== EMAILJS ERROR ==========");
+    console.error(error);
+    console.error("Status:", error.status);
+    console.error("Text:", error.text);
+    console.error("Full Error:", JSON.stringify(error, null, 2));
 
     alert("Failed to send message.");
   }

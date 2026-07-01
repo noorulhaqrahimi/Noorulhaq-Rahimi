@@ -7,11 +7,13 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import BackToTopButton from "./components/BackToTopButton";
+import WhatssapContact from "./components/whatssapContact";
 
 const App = () => {
   return (
     <>
       <Navbar />
+      <WhatssapContact />
       <Home />
       <About />
       <Projects />
