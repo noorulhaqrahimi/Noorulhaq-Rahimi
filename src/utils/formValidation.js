@@ -78,6 +78,10 @@ const formValidation = async (
     message: formData.message.trim(),
   };
 
+  console.log(import.meta.env.VITE_EMAILJS_SERVICE_ID);
+console.log(import.meta.env.VITE_EMAILJS_TEMPLATE_ID);
+console.log(import.meta.env.VITE_EMAILJS_PUBLIC_KEY);
+
   try {
     await emailjs.send(
       import.meta.env.VITE_EMAILJS_SERVICE_ID,
