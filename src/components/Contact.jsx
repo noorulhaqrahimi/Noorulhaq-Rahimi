@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import SectionHeading from "./SectionHeading";
 import { Person, GMail, Chat, Submit } from "./Icons";
-import { validateForm } from "../utils/formValidation";
+import { formValidation } from "../utils/formValidation";
 import AnimatedWrapper from "./ui/AnimatedWrapper";
 
 const Contact = () => {
@@ -17,7 +17,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    validateForm(
+    formValidation(
       formData,
       setFormData,
       setErrData,
