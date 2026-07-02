@@ -1,4 +1,4 @@
-import LinkedIn, { GitHub, GMail, Telegram, Resume } from "../components/Icons";
+import LinkedIn, { GitHub, GMail, Telegram, Resume, Twitter } from "../components/Icons";
 // import {  Discord, Twitter } from "../components/Icons";
 import NoorulhaqRahimiCV from "../assets/NoorulhaqRahimiCV.pdf"
 const contactInfo = [
@@ -33,13 +33,13 @@ const contactInfo = [
         link: NoorulhaqRahimiCV,
         icon: <Resume />,
         download: true
-    }
-    // {
-    //   id: 6,
-    //   name: "Twitter",
-    //   link: "twitter.com",
-    //   icon: <Twitter />,
-    // },
+    },
+    {
+      id: 6,
+      name: "Twitter",
+      link: "https://x.com/NoorulhaqRahim",
+      icon: <Twitter />,
+    },
     // {
     //   id: 7,
     //   name: "Discord",
