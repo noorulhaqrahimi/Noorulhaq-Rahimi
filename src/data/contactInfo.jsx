@@ -33,13 +33,13 @@ const contactInfo = [
         link: NoorulhaqRahimiCV,
         icon: <Resume />,
         download: true
-    },
-    {
-      id: 6,
-      name: "Twitter",
-      link: "https://x.com/NoorulhaqRahim",
-      icon: <Twitter />,
-    },
+    }
+    // {
+    //   id: 6,
+    //   name: "Twitter",
+    //   link: "twitter.com",
+    //   icon: <Twitter />,
+    // },
     // {
     //   id: 7,
     //   name: "Discord",
